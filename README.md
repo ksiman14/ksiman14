@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+
+I am Kelsey Siman, a Fullstack Software Developer with interest in the sports/entertainment/media space.
+
+- 🔭 Check out some of my projects:
+  * https://kis-card-game.herokuapp.com/
+- 😄 Pronouns: she / her
+- 📫 How to reach me: ksiman14@gmail.com // linkedin.com/in/kelsey-siman/
 
 <!--
 **ksiman14/ksiman14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
