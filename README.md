@@ -4,6 +4,7 @@ I am Kelsey Siman, a Fullstack Software Developer with a background in finance, 
 
 - 🔭  Check out some of my projects:
   * https://kis-card-game.herokuapp.com/
+- ⚡ High 5 Strengths: Philomath, Analyst, Deliverer, Time Keeper, Strategist
 - 😄  Pronouns: she / her
 - 📫  How to reach me: ksiman14@gmail.com // https://www.linkedin.com/in/kelsey-siman/
 
