@@ -3,7 +3,7 @@
 I am Kelsey Siman, a Fullstack Software Developer with a background in finance and specific interest in the sports/entertainment/media space.
 
 - 🔭  Check out some of my projects:
-  * <tagged /> : https://www.youtube.com/watch?v=ZnTJXJw4Izo&list=PLx0iOsdUOUmnPA9l9RyeENObqv4SJi-_S&index=15&t=2s
+  * tagged: https://www.youtube.com/watch?v=ZnTJXJw4Izo&list=PLx0iOsdUOUmnPA9l9RyeENObqv4SJi-_S&index=15&t=2s
   * Clock Solitaire: https://kis-card-game.herokuapp.com/
 - ⚡ High 5 Strengths: Philomath, Analyst, Deliverer, Time Keeper, Strategist
 - 😄  Pronouns: she / her
