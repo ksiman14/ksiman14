@@ -3,8 +3,8 @@
 I am Kelsey Siman, a Fullstack Software Developer with a background in finance and specific interest in the sports/entertainment/media space.
 
 - 🔭  Check out some of my projects:
-  * https://github.com/GH-Squirtle-Squad/tagged
-  * https://kis-card-game.herokuapp.com/
+  * <tagged /> : https://www.youtube.com/watch?v=ZnTJXJw4Izo&list=PLx0iOsdUOUmnPA9l9RyeENObqv4SJi-_S&index=15&t=2s
+  * Clock Solitaire: https://kis-card-game.herokuapp.com/
 - ⚡ High 5 Strengths: Philomath, Analyst, Deliverer, Time Keeper, Strategist
 - 😄  Pronouns: she / her
 - 📫  How to reach me: ksiman14@gmail.com // https://www.linkedin.com/in/kelsey-siman/
