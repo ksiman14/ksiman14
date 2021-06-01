@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I am Kelsey Siman, a Fullstack Software Developer with a background in finance, but an interest in the sports/entertainment/media space.
+I am Kelsey Siman, a Fullstack Software Developer with a background in finance and specific interest in the sports/entertainment/media space.
 
 - 🔭  Check out some of my projects:
   * https://kis-card-game.herokuapp.com/
