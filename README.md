@@ -8,7 +8,7 @@ I am Kelsey Siman, a Fullstack Software Developer with a background in finance a
 
 ### Check Out Some of my Projects
 
-#### "<tagged />"
+#### tagged
 <a href="https://www.youtube.com/watch?v=ZnTJXJw4Izo&list=PLx0iOsdUOUmnPA9l9RyeENObqv4SJi-_S&index=15&t=2s" target="_blank"><img src="https://camo.githubusercontent.com/c72ae28206f3ab132f228b5d1ee6c7e2ee5323cec5cd852349ec9f4d4aad9734/687474703a2f2f7777772e696d6167652e6661726d2f696d616765732f323032312f30352f32312f36373831376461653935303962626137383532343465326239663332323563302e706e67" 
 alt="<tagged />" width="240" height="180" border="10" /></a>
 
