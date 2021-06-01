@@ -18,7 +18,7 @@ alt="<tagged />" height="180" border="10" /></a>
 
 #### Clock Solitaire
 <a href="https://kis-card-game.herokuapp.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Clock_Solitaire.JPG" 
-alt="Clock Solitaire" width="240" height="180" border="10" /></a>
+alt="Clock Solitaire" height="180" border="10" /></a>
 
 <!--
 **ksiman14/ksiman14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
