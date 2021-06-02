@@ -17,7 +17,7 @@ I am currently looking for engineering positions that marry my technical experti
 alt="<tagged />" height="180" border="10" /></a>
 
 #### Clock Solitaire
-<a href="https://kis-card-game.herokuapp.com/" target="_blank"><img width="1117" alt="Clock Solitaire" src="https://user-images.githubusercontent.com/40218057/120482969-a9aecc00-c37f-11eb-8bc6-2c80d76db321.png" width="200" height="200" border="10"></a>
+<a href="https://kis-card-game.herokuapp.com/" target="_blank"><img width="1117" alt="Clock Solitaire" src="https://user-images.githubusercontent.com/40218057/120482969-a9aecc00-c37f-11eb-8bc6-2c80d76db321.png" width="50" height="200" border="10"></a>
 
 <!--
 **ksiman14/ksiman14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
