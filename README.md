@@ -12,7 +12,7 @@ After studying Economics and Mathematics in college, I worked first as an invest
 
 #### Lettuce Know
 <a href="https://tcl-28-shopping-list.web.app/" target="_blank">
-![Screen Shot 2021-09-08 at 8 10 24 AM](https://user-images.githubusercontent.com/40218057/132525348-3ecabc56-73dc-4a9b-901b-cda6643419e6.png)
+<img src="https://user-images.githubusercontent.com/40218057/132525348-3ecabc56-73dc-4a9b-901b-cda6643419e6.png" alt="Lettuce Know" height="180" border="10" />
 </a>
 
 #### tagged
