@@ -2,7 +2,7 @@
 
 I am a Fullstack Software Engineer with backgrounds in the media and finance sectors.
 
-After studying Economics and Mathematics in college, I worked first as an investment banker in NYC and then in investor relations for a media conglomerate based in the Denver area. I loved working in the sports and media space, but wanted to return to my quantitative roots. I was eager to pursue a more technical career that would foster my endless desire to learn and challenge my problem solving abilities. I enrolled in the Grace Hopper Program at Fullstack Academy and started my engineering journey.
+After studying Economics and Mathematics in college, I worked first as an investment banker in NYC and then in investor relations for a media conglomerate based in the Denver area. I loved working in the sports and media space, but wanted to return to my quantitative roots. I was eager to pursue a more technical career that would foster my endless desire to learn and challenge my problem solving abilities. I enrolled in the Grace Hopper Program at Fullstack Academy in March 2021 and started my engineering journey.
 
 - ⚡ High 5 Strengths: Philomath, Analyst, Deliverer, Time Keeper, Strategist
 - 😄  Pronouns: she / her
