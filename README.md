@@ -1,16 +1,19 @@
 ## Hi there, I'm Kelsey Siman 👋 
 
-I am a Fullstack Software Engineer with backgrounds in the finance and media sectors.
+I am a Fullstack Software Engineer with backgrounds in the media and finance sectors.
 
-After studying Economics and Mathematics in college, I worked first as an investment banker in NYC and then in investor relations for a media conglomerate based in the Denver area. I loved working in the sports and media space, but wanted to return to my quantitative roots. I was eager to pursue a more technical career that would foster my endless desire to learn and challenge my problem solving abilities. I enrolled in the Grace Hopper Program at Fullstack Academy and learned a plethora of engineering technologies and frameworks in just 17 weeks.
-
-I am currently looking for engineering positions that bring together my technical expertise with my personal interests in technology, sports and media.
+After studying Economics and Mathematics in college, I worked first as an investment banker in NYC and then in investor relations for a media conglomerate based in the Denver area. I loved working in the sports and media space, but wanted to return to my quantitative roots. I was eager to pursue a more technical career that would foster my endless desire to learn and challenge my problem solving abilities. I enrolled in the Grace Hopper Program at Fullstack Academy and started my engineering journey.
 
 - ⚡ High 5 Strengths: Philomath, Analyst, Deliverer, Time Keeper, Strategist
 - 😄  Pronouns: she / her
 - 📫  How to reach me: ksiman14@gmail.com // https://www.linkedin.com/in/kelsey-siman/
 
 ### Check Out Some of my Projects:
+
+#### Lettuce Know
+<a href="https://tcl-28-shopping-list.web.app/" target="_blank">
+![Screen Shot 2021-09-08 at 8 10 24 AM](https://user-images.githubusercontent.com/40218057/132525348-3ecabc56-73dc-4a9b-901b-cda6643419e6.png)
+</a>
 
 #### tagged
 <a href="https://www.youtube.com/watch?v=ZnTJXJw4Izo&list=PLx0iOsdUOUmnPA9l9RyeENObqv4SJi-_S&index=15&t=2s" target="_blank"><img src="https://camo.githubusercontent.com/c72ae28206f3ab132f228b5d1ee6c7e2ee5323cec5cd852349ec9f4d4aad9734/687474703a2f2f7777772e696d6167652e6661726d2f696d616765732f323032312f30352f32312f36373831376461653935303962626137383532343465326239663332323563302e706e67" 
