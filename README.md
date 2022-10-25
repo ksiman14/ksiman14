@@ -1,6 +1,6 @@
 ## Hi there, I'm Kelsey Siman 👋 
 
-I am a Fullstack Software Engineer with backgrounds in the media and finance sectors, and am currently working as an Apprentice Software Engineer at Twitter.
+I am a Fullstack Software Engineer with backgrounds in the media and finance sectors, and am currently working as a Software Engineer at Twitter.
 
 After studying Economics and Mathematics in college, I worked first as an investment banker in NYC and then in investor relations for a media conglomerate based in the Denver area. I loved working in the sports and media space, but wanted to return to my quantitative roots. I was eager to pursue a more technical career that would foster my endless desire to learn and challenge my problem solving abilities. I enrolled in the Grace Hopper Program at Fullstack Academy in March 2021 and started my engineering journey.
 
@@ -8,9 +8,7 @@ After studying Economics and Mathematics in college, I worked first as an invest
 - 😄  Pronouns: she / her
 - 📫  How to reach me: ksiman14@gmail.com // https://www.linkedin.com/in/kelsey-siman/
 
-### Visit My Personal Website <a href="https://www.kelseysiman.com" target="_blank">Here</a>!
-
-### Check Out Some of my Projects:
+### Check Out Some of my bootcamp Projects:
 
 #### Lettuce Know
 <a href="https://tcl-28-shopping-list.web.app/" target="_blank">
