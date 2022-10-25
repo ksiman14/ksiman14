@@ -8,7 +8,7 @@ After studying Economics and Mathematics in college, I worked first as an invest
 - 😄  Pronouns: she / her
 - 📫  How to reach me: ksiman14@gmail.com // https://www.linkedin.com/in/kelsey-siman/
 
-### Check Out Some of my bootcamp Projects:
+### Check Out Some of my Bootcamp Projects:
 
 #### Lettuce Know
 <a href="https://tcl-28-shopping-list.web.app/" target="_blank">
