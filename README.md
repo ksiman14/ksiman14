@@ -1,6 +1,6 @@
 ## Hi there, I'm Kelsey Siman 👋 
 
-I am a Fullstack Software Engineer at [Trunk](https://trunk.io/), with former experience at Twitter.
+I am a Fullstack Software Engineer at [Loop](https://loop.com/), with former experience at Twitter and [Trunk](https://trunk.io/).
 
 - ⚡ High 5 Strengths: Philomath, Analyst, Deliverer, Time Keeper, Strategist
 - 😄  Pronouns: she / her
